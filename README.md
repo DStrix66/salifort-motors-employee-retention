@@ -12,7 +12,7 @@ Salifort Motors suffers from high employee turnover, which costs the company res
 
 An EDA was conducted to clean and prepare the data set for predictive modelling. Features were extracted and selected iteratively in parallel with testing various binomial classification ML models, namely logistic regression, naïve Bayes, decision-tree, and tree-based gradient boosting machine. The latter two models were highly successful at predicting employee turnover with similar performance metrics (a precision of 97% and a recall of 92-93%). Both models identified the same factors as impacting employees leaving the company, namely satisfaction, time at the company, and workload. 
 
-# **FINDINGS**
+## **FINDINGS**
 
 These factors (satisfaction, time at the company, and workload) do not have simple linear relationships to turnover. For example, employees within certain high and low satisfaction intervals were both more likely to leave. Thus, further investigation is required to determine the nature of the impact these factors have on employees leaving. This would be informative for developing a nuanced and effective employee retention strategy.
 
